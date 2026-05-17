@@ -1,3 +1,4 @@
+//Ejercicio 6
 #include <iostream>
 #include "bd.h"
 using namespace std;
